@@ -71,10 +71,19 @@
     <Compile Include="Discount.Designer.cs">
       <DependentUpon>Discount.cs</DependentUpon>
     </Compile>
+    <Compile Include="ListOfDiscounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListOfDiscounts.Designer.cs">
+      <DependentUpon>ListOfDiscounts.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Discount.resx">
       <DependentUpon>Discount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListOfDiscounts.resx">
+      <DependentUpon>ListOfDiscounts.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
