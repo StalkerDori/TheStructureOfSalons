@@ -1,0 +1,17 @@
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\TreeStuctureOfSalons.exe.config
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\TreeStuctureOfSalons.exe
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\TreeStuctureOfSalons.pdb
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\EntityFramework.dll
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\System.Data.SQLite.dll
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\EntityFramework.xml
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\bin\Debug\System.Data.SQLite.xml
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\obj\Debug\TreeStuctureOfSalons.Properties.Resources.resources
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\obj\Debug\TreeStuctureOfSalons.csproj.GenerateResource.cache
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\obj\Debug\TreeStuctureOfSalons.csproj.CopyComplete
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\obj\Debug\TreeStuctureOfSalons.exe
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\obj\Debug\TreeStuctureOfSalons.pdb
+C:\Users\1\source\repos\TreeStuctureOfSalons\TreeStuctureOfSalons\obj\Debug\TreeStuctureOfSalons.Discount.resources
